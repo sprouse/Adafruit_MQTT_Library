@@ -1,7 +1,7 @@
 {
     "name": "Adafruit MQTT Library",
     "keywords": "wifi, mqtt, m2m, iot, Adafruit",
-    "description": "Forked from Adafruit MQTT library until use of library.json is resolved. This supports the CC3000, FONA, ESP8266, Yun, and generic Arduino Client hardware.",
+    "description": "Unofficial: Forked from Adafruit Industries' MQTT library until use of library.json is resolved. This supports the CC3000, FONA, ESP8266, Yun, and generic Arduino Client hardware.",
     "repository": {
         "type": "git",
         "url": "https://github.com/sprouse/Adafruit_MQTT_Library.git"

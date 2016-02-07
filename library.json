@@ -4,7 +4,7 @@
     "description": "MQTT library that supports the CC3000, FONA, ESP8266, Yun, and generic Arduino Client hardware.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sprouse/Adafruit_MQTT_Library.git
+        "url": "https://github.com/sprouse/Adafruit_MQTT_Library.git"
     },
     "version": "0.12.2",
     "exclude": "tests",

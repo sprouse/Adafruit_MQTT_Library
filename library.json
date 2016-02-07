@@ -11,6 +11,7 @@
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
     "platforms": [
+        "atmelavr",
         "espressif"
     ]
 }
